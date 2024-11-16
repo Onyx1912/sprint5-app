@@ -1,3 +1,3 @@
 # sprint5-app
-Acesse aqui o meu app
-Link: https://sprint5-app.onrender.com/
+Dashboard para o projeto da Sprint 5 da TripleTen
+Acesse aqui o meu app: https://sprint5-app.onrender.com/
